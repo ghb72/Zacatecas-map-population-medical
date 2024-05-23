@@ -1,0 +1,593 @@
+cve_entidad,desc_entidad,cve_municipio,desc_municipio,id_indicador,indicador,2000,2005,2010,2015,2020,unidad_medida
+32,Zacatecas,0,Estatal,1004000001,Poblacion derechohabiente a servicios de salud,438329,577422,1020487,,1293059,Número de personas
+32,Zacatecas,0,Estatal,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,63.22071,49.5603062195925,Porcentaje
+32,Zacatecas,0,Estatal,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.3292594,0.389850733802557,Porcentaje
+32,Zacatecas,0,Estatal,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.593321727778856,Porcentaje
+32,Zacatecas,0,Estatal,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,7.868643,8.79975314351472,Porcentaje
+32,Zacatecas,0,Estatal,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,30.453649,40.7146928330416,Porcentaje
+32,Zacatecas,0,Estatal,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.9641034,,Porcentaje
+32,Zacatecas,0,Estatal,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.5765681,0.2928714002996,Porcentaje
+32,Zacatecas,0,Estatal,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,86.928203,79.7132549758405,Porcentaje
+32,Zacatecas,0,Estatal,6207049072,Porcentaje de Poblacion no afiliada a servicios de salud,,,,12.7974194675942,,Porcentaje
+32,Zacatecas,0,Estatal,6207049073,Porcentaje de Poblacion que no especificó su afiliación a servicios de salud,,,,0.27437786892045,,Porcentaje
+32,Zacatecas,0,Estatal,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,1.11301959152676,Porcentaje
+32,Zacatecas,001,Apozol,1004000001,Poblacion derechohabiente a servicios de salud,1241,2580,4851,,5464,Número de personas
+32,Zacatecas,001,Apozol,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,86.509557,74.6888726207906,Porcentaje
+32,Zacatecas,001,Apozol,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0742253,0.054904831625183,Porcentaje
+32,Zacatecas,001,Apozol,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,1.22620790629575,Porcentaje
+32,Zacatecas,001,Apozol,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,4.8246428,6.36896046852123,Porcentaje
+32,Zacatecas,001,Apozol,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,14.56671,17.7708638360176,Porcentaje
+32,Zacatecas,001,Apozol,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.2597885,,Porcentaje
+32,Zacatecas,001,Apozol,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0185563,0.530746705710103,Porcentaje
+32,Zacatecas,001,Apozol,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,88.547486,87.2843450479233,Porcentaje
+32,Zacatecas,001,Apozol,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.969985358711567,Porcentaje
+32,Zacatecas,002,Apulco,1004000001,Poblacion derechohabiente a servicios de salud,485,1964,3801,,4139,Número de personas
+32,Zacatecas,002,Apulco,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,90.441709,81.2756704518,Porcentaje
+32,Zacatecas,002,Apulco,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0482742,0,Porcentaje
+32,Zacatecas,002,Apulco,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.12080212611742,Porcentaje
+32,Zacatecas,002,Apulco,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,2.3171615,2.77844890070065,Porcentaje
+32,Zacatecas,002,Apulco,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,8.5203958,16.3566078762986,Porcentaje
+32,Zacatecas,002,Apulco,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.1689597,,Porcentaje
+32,Zacatecas,002,Apulco,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0241371,0.0483208504469679,Porcentaje
+32,Zacatecas,002,Apulco,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,87.441959,83.7515176042088,Porcentaje
+32,Zacatecas,002,Apulco,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.0483208504469679,Porcentaje
+32,Zacatecas,003,Atolinga,1004000001,Poblacion derechohabiente a servicios de salud,299,368,1707,,1861,Número de personas
+32,Zacatecas,003,Atolinga,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,89.277279,75.4433100483611,Porcentaje
+32,Zacatecas,003,Atolinga,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0,Porcentaje
+32,Zacatecas,003,Atolinga,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.0537345513164965,Porcentaje
+32,Zacatecas,003,Atolinga,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.4955125,4.5674368619022,Porcentaje
+32,Zacatecas,003,Atolinga,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,8.360888,19.7743148844707,Porcentaje
+32,Zacatecas,003,Atolinga,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,2.2201228,,Porcentaje
+32,Zacatecas,003,Atolinga,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0472367,0.322407307898979,Porcentaje
+32,Zacatecas,003,Atolinga,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,87.227029,81.7303469477383,Porcentaje
+32,Zacatecas,003,Atolinga,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.644814615797958,Porcentaje
+32,Zacatecas,004,Benito Juárez,1004000001,Poblacion derechohabiente a servicios de salud,744,599,2244,,2963,Número de personas
+32,Zacatecas,004,Benito Juárez,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,85.952849,75.0253121835977,Porcentaje
+32,Zacatecas,004,Benito Juárez,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.134998312521093,Porcentaje
+32,Zacatecas,004,Benito Juárez,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,2.26122173472832,Porcentaje
+32,Zacatecas,004,Benito Juárez,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,2.815979,2.63246709416132,Porcentaje
+32,Zacatecas,004,Benito Juárez,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,10.412574,16.9760377995275,Porcentaje
+32,Zacatecas,004,Benito Juárez,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.556647,,Porcentaje
+32,Zacatecas,004,Benito Juárez,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,1.0478062,0.168747890651367,Porcentaje
+32,Zacatecas,004,Benito Juárez,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,76.541353,65.9470287113287,Porcentaje
+32,Zacatecas,004,Benito Juárez,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,3.0374620317246,Porcentaje
+32,Zacatecas,005,Calera,1004000001,Poblacion derechohabiente a servicios de salud,12124,15961,28657,,37519,Número de personas
+32,Zacatecas,005,Calera,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,48.107943,36.9199605533197,Porcentaje
+32,Zacatecas,005,Calera,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0993808,0.135931128228364,Porcentaje
+32,Zacatecas,005,Calera,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.930195367680375,Porcentaje
+32,Zacatecas,005,Calera,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,2.8336264,3.11308936805352,Porcentaje
+32,Zacatecas,005,Calera,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,49.445761,58.8395213092033,Porcentaje
+32,Zacatecas,005,Calera,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.4677777,,Porcentaje
+32,Zacatecas,005,Calera,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.6064776,0.426450598363496,Porcentaje
+32,Zacatecas,005,Calera,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,86.813114,81.9926134749448,Porcentaje
+32,Zacatecas,005,Calera,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.285188837655588,Porcentaje
+32,Zacatecas,006,Cañitas de Felipe Pescador,1004000001,Poblacion derechohabiente a servicios de salud,2600,4457,6011,,6169,Número de personas
+32,Zacatecas,006,Cañitas de Felipe Pescador,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,73.10878,46.7012481763657,Porcentaje
+32,Zacatecas,006,Cañitas de Felipe Pescador,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0138045,0.0162100826714216,Porcentaje
+32,Zacatecas,006,Cañitas de Felipe Pescador,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.129680661371373,Porcentaje
+32,Zacatecas,006,Cañitas de Felipe Pescador,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,5.6460519,6.95412546603988,Porcentaje
+32,Zacatecas,006,Cañitas de Felipe Pescador,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,22.915516,46.7660885070514,Porcentaje
+32,Zacatecas,006,Cañitas de Felipe Pescador,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,2.2087245,,Porcentaje
+32,Zacatecas,006,Cañitas de Felipe Pescador,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.3175041,0.178310909385638,Porcentaje
+32,Zacatecas,006,Cañitas de Felipe Pescador,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,86.31002,74.7304663840097,Porcentaje
+32,Zacatecas,006,Cañitas de Felipe Pescador,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.340411736099854,Porcentaje
+32,Zacatecas,007,Concepción del Oro,1004000001,Poblacion derechohabiente a servicios de salud,8377,6683,9762,,10286,Número de personas
+32,Zacatecas,007,Concepción del Oro,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,25.30556,16.575928446432,Porcentaje
+32,Zacatecas,007,Concepción del Oro,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.103288,0.301380517207855,Porcentaje
+32,Zacatecas,007,Concepción del Oro,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.87497569511958,Porcentaje
+32,Zacatecas,007,Concepción del Oro,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,6.0423481,6.18316157884503,Porcentaje
+32,Zacatecas,007,Concepción del Oro,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,71.30315,74.3437682286603,Porcentaje
+32,Zacatecas,007,Concepción del Oro,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.5148907,,Porcentaje
+32,Zacatecas,007,Concepción del Oro,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.2754347,0.136107330351935,Porcentaje
+32,Zacatecas,007,Concepción del Oro,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,89.755871,84.9030127940569,Porcentaje
+32,Zacatecas,007,Concepción del Oro,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,3.27629788061443,Porcentaje
+32,Zacatecas,008,Cuauhtémoc,1004000001,Poblacion derechohabiente a servicios de salud,3229,3616,8219,,10867,Número de personas
+32,Zacatecas,008,Cuauhtémoc,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,72.679274,57.4307536578633,Porcentaje
+32,Zacatecas,008,Cuauhtémoc,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.0368086868500966,Porcentaje
+32,Zacatecas,008,Cuauhtémoc,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.579736817889022,Porcentaje
+32,Zacatecas,008,Cuauhtémoc,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,5.3374292,5.85258120916536,Porcentaje
+32,Zacatecas,008,Cuauhtémoc,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,24.38322,36.7258673046839,Porcentaje
+32,Zacatecas,008,Cuauhtémoc,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.5375828,,Porcentaje
+32,Zacatecas,008,Cuauhtémoc,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.5279831,0.147234747400387,Porcentaje
+32,Zacatecas,008,Cuauhtémoc,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,82.74027,80.6995395811674,Porcentaje
+32,Zacatecas,008,Cuauhtémoc,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.202447777675531,Porcentaje
+32,Zacatecas,009,Chalchihuites,1004000001,Poblacion derechohabiente a servicios de salud,2558,2740,5081,,5676,Número de personas
+32,Zacatecas,009,Chalchihuites,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,71.82201,46.8816067653277,Porcentaje
+32,Zacatecas,009,Chalchihuites,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.0176180408738548,Porcentaje
+32,Zacatecas,009,Chalchihuites,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,2.04369274136716,Porcentaje
+32,Zacatecas,009,Chalchihuites,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,4.3359508,6.2015503875969,Porcentaje
+32,Zacatecas,009,Chalchihuites,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,26.118129,42.9880197322058,Porcentaje
+32,Zacatecas,009,Chalchihuites,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.0682827,,Porcentaje
+32,Zacatecas,009,Chalchihuites,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.2162285,1.9908386187456,Porcentaje
+32,Zacatecas,009,Chalchihuites,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,76.970918,56.2760261748959,Porcentaje
+32,Zacatecas,009,Chalchihuites,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.281888653981677,Porcentaje
+32,Zacatecas,010,Fresnillo,1004000001,Poblacion derechohabiente a servicios de salud,64596,92626,145467,,188625,Número de personas
+32,Zacatecas,010,Fresnillo,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,51.5825,36.5248508946322,Porcentaje
+32,Zacatecas,010,Fresnillo,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.3107987,0.208349900596421,Porcentaje
+32,Zacatecas,010,Fresnillo,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.54181577203446,Porcentaje
+32,Zacatecas,010,Fresnillo,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,5.7048724,6.33532140490391,Porcentaje
+32,Zacatecas,010,Fresnillo,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,42.977008,56.3005964214712,Porcentaje
+32,Zacatecas,010,Fresnillo,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.854192,,Porcentaje
+32,Zacatecas,010,Fresnillo,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.7124153,0.215241882041087,Porcentaje
+32,Zacatecas,010,Fresnillo,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,85.850605,78.4199191791529,Porcentaje
+32,Zacatecas,010,Fresnillo,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.981312127236581,Porcentaje
+32,Zacatecas,011,Trinidad García de la Cadena,1004000001,Poblacion derechohabiente a servicios de salud,453,428,1407,,1938,Número de personas
+32,Zacatecas,011,Trinidad García de la Cadena,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,86.017316,76.7285861713106,Porcentaje
+32,Zacatecas,011,Trinidad García de la Cadena,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.412796697626419,Porcentaje
+32,Zacatecas,011,Trinidad García de la Cadena,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.567595459236326,Porcentaje
+32,Zacatecas,011,Trinidad García de la Cadena,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,4.5021645,5.57275541795666,Porcentaje
+32,Zacatecas,011,Trinidad García de la Cadena,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,8.5281385,17.0794633642931,Porcentaje
+32,Zacatecas,011,Trinidad García de la Cadena,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.7748918,,Porcentaje
+32,Zacatecas,011,Trinidad García de la Cadena,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.04329,0.257997936016512,Porcentaje
+32,Zacatecas,011,Trinidad García de la Cadena,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,80.097087,57.644259369423,Porcentaje
+32,Zacatecas,011,Trinidad García de la Cadena,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.206398348813209,Porcentaje
+32,Zacatecas,012,Genaro Codina,1004000001,Poblacion derechohabiente a servicios de salud,1480,1969,5501,,6528,Número de personas
+32,Zacatecas,012,Genaro Codina,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,92.243997,76.6697303921569,Porcentaje
+32,Zacatecas,012,Genaro Codina,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.1794093,0.183823529411765,Porcentaje
+32,Zacatecas,012,Genaro Codina,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.582107843137255,Porcentaje
+32,Zacatecas,012,Genaro Codina,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,1.5042782,2.32843137254902,Porcentaje
+32,Zacatecas,012,Genaro Codina,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,6.7899531,20.7414215686275,Porcentaje
+32,Zacatecas,012,Genaro Codina,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.0414022,,Porcentaje
+32,Zacatecas,012,Genaro Codina,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0552029,0.0459558823529412,Porcentaje
+32,Zacatecas,012,Genaro Codina,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,88.527795,79.9216454456415,Porcentaje
+32,Zacatecas,012,Genaro Codina,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.122549019607843,Porcentaje
+32,Zacatecas,013,General Enrique Estrada,1004000001,Poblacion derechohabiente a servicios de salud,2150,2042,3827,,5147,Número de personas
+32,Zacatecas,013,General Enrique Estrada,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,58.942112,40.878181464931,Porcentaje
+32,Zacatecas,013,General Enrique Estrada,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.1109673,0.097143967359627,Porcentaje
+32,Zacatecas,013,General Enrique Estrada,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.621721391101613,Porcentaje
+32,Zacatecas,013,General Enrique Estrada,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,4.1427779,4.79891198756557,Porcentaje
+32,Zacatecas,013,General Enrique Estrada,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,38.33919,53.914901884593,Porcentaje
+32,Zacatecas,013,General Enrique Estrada,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,2.3488071,,Porcentaje
+32,Zacatecas,013,General Enrique Estrada,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.3329018,0.408004662910433,Porcentaje
+32,Zacatecas,013,General Enrique Estrada,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,85.486166,77.4683925346177,Porcentaje
+32,Zacatecas,013,General Enrique Estrada,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.310860695550806,Porcentaje
+32,Zacatecas,014,General Francisco R. Murguía,1004000001,Poblacion derechohabiente a servicios de salud,5264,7974,16772,,16988,Número de personas
+32,Zacatecas,014,General Francisco R. Murguía,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,92.582788,85.8252884388981,Porcentaje
+32,Zacatecas,014,General Francisco R. Murguía,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0570954,0.153049211207911,Porcentaje
+32,Zacatecas,014,General Francisco R. Murguía,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.117730162467624,Porcentaje
+32,Zacatecas,014,General Francisco R. Murguía,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,5.221634,8.05862962090888,Porcentaje
+32,Zacatecas,014,General Francisco R. Murguía,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,3.3945811,5.8276430421474,Porcentaje
+32,Zacatecas,014,General Francisco R. Murguía,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.0155715,,Porcentaje
+32,Zacatecas,014,General Francisco R. Murguía,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0467144,0.235460324935248,Porcentaje
+32,Zacatecas,014,General Francisco R. Murguía,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,88.339676,84.1364964588183,Porcentaje
+32,Zacatecas,014,General Francisco R. Murguía,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.500353190487403,Porcentaje
+32,Zacatecas,015,El Plateado de Joaquín Amaro,1004000001,Poblacion derechohabiente a servicios de salud,197,657,1019,,1235,Número de personas
+32,Zacatecas,015,El Plateado de Joaquín Amaro,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,96.61191,89.0688259109312,Porcentaje
+32,Zacatecas,015,El Plateado de Joaquín Amaro,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.1026694,0.242914979757085,Porcentaje
+32,Zacatecas,015,El Plateado de Joaquín Amaro,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0,Porcentaje
+32,Zacatecas,015,El Plateado de Joaquín Amaro,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,0.8213552,1.61943319838057,Porcentaje
+32,Zacatecas,015,El Plateado de Joaquín Amaro,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,4.5174538,9.47368421052632,Porcentaje
+32,Zacatecas,015,El Plateado de Joaquín Amaro,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0,,Porcentaje
+32,Zacatecas,015,El Plateado de Joaquín Amaro,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0,0,Porcentaje
+32,Zacatecas,015,El Plateado de Joaquín Amaro,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,83.965517,78.214059531349,Porcentaje
+32,Zacatecas,015,El Plateado de Joaquín Amaro,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.323886639676113,Porcentaje
+32,Zacatecas,016,General Pánfilo Natera,1004000001,Poblacion derechohabiente a servicios de salud,1852,7256,15840,,18638,Número de personas
+32,Zacatecas,016,General Pánfilo Natera,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,90.879415,77.8141431484065,Porcentaje
+32,Zacatecas,016,General Pánfilo Natera,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0146163,0.0482884429659835,Porcentaje
+32,Zacatecas,016,General Pánfilo Natera,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.19851915441571,Porcentaje
+32,Zacatecas,016,General Pánfilo Natera,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,1.0767357,1.8295954501556,Porcentaje
+32,Zacatecas,016,General Pánfilo Natera,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,12.214373,20.4313767571628,Porcentaje
+32,Zacatecas,016,General Pánfilo Natera,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.774665,,Porcentaje
+32,Zacatecas,016,General Pánfilo Natera,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.1169306,0.0321922953106557,Porcentaje
+32,Zacatecas,016,General Pánfilo Natera,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,88.500345,79.2229873331633,Porcentaje
+32,Zacatecas,016,General Pánfilo Natera,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.241442214829917,Porcentaje
+32,Zacatecas,017,Guadalupe,1004000001,Poblacion derechohabiente a servicios de salud,59964,81614,123046,,175273,Número de personas
+32,Zacatecas,017,Guadalupe,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,34.023087,22.0507436969756,Porcentaje
+32,Zacatecas,017,Guadalupe,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,1.0253746,1.0275398949068,Porcentaje
+32,Zacatecas,017,Guadalupe,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.809594175942672,Porcentaje
+32,Zacatecas,017,Guadalupe,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,16.130092,15.7103489984196,Porcentaje
+32,Zacatecas,017,Guadalupe,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,51.33442,62.7598089836997,Porcentaje
+32,Zacatecas,017,Guadalupe,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.3526345,,Porcentaje
+32,Zacatecas,017,Guadalupe,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.5553864,0.219657334558089,Porcentaje
+32,Zacatecas,017,Guadalupe,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,89.108547,82.7774629262303,Porcentaje
+32,Zacatecas,017,Guadalupe,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.181431252959669,Porcentaje
+32,Zacatecas,018,Huanusco,1004000001,Poblacion derechohabiente a servicios de salud,1013,1562,2954,,3752,Número de personas
+32,Zacatecas,018,Huanusco,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,84.59596,79.5842217484009,Porcentaje
+32,Zacatecas,018,Huanusco,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0280584,0,Porcentaje
+32,Zacatecas,018,Huanusco,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.0533049040511727,Porcentaje
+32,Zacatecas,018,Huanusco,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.9842873,3.67803837953092,Porcentaje
+32,Zacatecas,018,Huanusco,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,11.924804,17.137526652452,Porcentaje
+32,Zacatecas,018,Huanusco,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.8237935,,Porcentaje
+32,Zacatecas,018,Huanusco,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0561167,0,Porcentaje
+32,Zacatecas,018,Huanusco,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,87.267385,82.5159445788432,Porcentaje
+32,Zacatecas,018,Huanusco,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.239872068230277,Porcentaje
+32,Zacatecas,019,Jalpa,1004000001,Poblacion derechohabiente a servicios de salud,6005,11430,16716,,20002,Número de personas
+32,Zacatecas,019,Jalpa,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,75.064011,63.2786721327867,Porcentaje
+32,Zacatecas,019,Jalpa,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.8534851,1.10488951104889,Porcentaje
+32,Zacatecas,019,Jalpa,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.36996300369963,Porcentaje
+32,Zacatecas,019,Jalpa,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,7.7714557,8.20917908209179,Porcentaje
+32,Zacatecas,019,Jalpa,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,20.412518,26.9373062693731,Porcentaje
+32,Zacatecas,019,Jalpa,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.8397345,,Porcentaje
+32,Zacatecas,019,Jalpa,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.4883831,0.81991800819918,Porcentaje
+32,Zacatecas,019,Jalpa,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,87.535799,79.0717900063251,Porcentaje
+32,Zacatecas,019,Jalpa,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.284971502849715,Porcentaje
+32,Zacatecas,020,Jerez,1004000001,Poblacion derechohabiente a servicios de salud,15923,19697,34065,,46358,Número de personas
+32,Zacatecas,020,Jerez,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,69.588884,60.7295396695285,Porcentaje
+32,Zacatecas,020,Jerez,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0818548,0.170412873721903,Porcentaje
+32,Zacatecas,020,Jerez,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.319254497605591,Porcentaje
+32,Zacatecas,020,Jerez,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,8.8648781,10.9970231675223,Porcentaje
+32,Zacatecas,020,Jerez,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,22.016903,28.3338366624962,Porcentaje
+32,Zacatecas,020,Jerez,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.8328729,,Porcentaje
+32,Zacatecas,020,Jerez,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.2496572,0.16609862375426,Porcentaje
+32,Zacatecas,020,Jerez,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,82.650317,77.3794024369888,Porcentaje
+32,Zacatecas,020,Jerez,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.330040122524699,Porcentaje
+32,Zacatecas,021,Jiménez del Teul,1004000001,Poblacion derechohabiente a servicios de salud,510,874,2273,,3798,Número de personas
+32,Zacatecas,021,Jiménez del Teul,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,85.313833,80.2527646129542,Porcentaje
+32,Zacatecas,021,Jiménez del Teul,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0914077,0.105318588730911,Porcentaje
+32,Zacatecas,021,Jiménez del Teul,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.500263296471827,Porcentaje
+32,Zacatecas,021,Jiménez del Teul,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.3211456,3.92311743022644,Porcentaje
+32,Zacatecas,021,Jiménez del Teul,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,5.9414991,16.4823591363876,Porcentaje
+32,Zacatecas,021,Jiménez del Teul,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.0968921,,Porcentaje
+32,Zacatecas,021,Jiménez del Teul,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,4.9664839,0.184307530279094,Porcentaje
+32,Zacatecas,021,Jiménez del Teul,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,76.77193,85.0615901455767,Porcentaje
+32,Zacatecas,021,Jiménez del Teul,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,1.55344918378094,Porcentaje
+32,Zacatecas,022,Juan Aldama,1004000001,Poblacion derechohabiente a servicios de salud,4763,9513,15339,,15236,Número de personas
+32,Zacatecas,022,Juan Aldama,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,82.140475,68.8763454975059,Porcentaje
+32,Zacatecas,022,Juan Aldama,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0205223,0.0787608296140719,Porcentaje
+32,Zacatecas,022,Juan Aldama,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.275662903649252,Porcentaje
+32,Zacatecas,022,Juan Aldama,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,6.2028629,8.74901548962982,Porcentaje
+32,Zacatecas,022,Juan Aldama,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,13.293315,22.059595694408,Porcentaje
+32,Zacatecas,022,Juan Aldama,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.6361911,,Porcentaje
+32,Zacatecas,022,Juan Aldama,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,1.0004618,0.105014439485429,Porcentaje
+32,Zacatecas,022,Juan Aldama,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,89.383656,77.1482100359512,Porcentaje
+32,Zacatecas,022,Juan Aldama,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,3.87897085849304,Porcentaje
+32,Zacatecas,023,Juchipila,1004000001,Poblacion derechohabiente a servicios de salud,3794,5841,9103,,10107,Número de personas
+32,Zacatecas,023,Juchipila,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,76.442053,64.8560403680617,Porcentaje
+32,Zacatecas,023,Juchipila,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0176398,0.0494706638963095,Porcentaje
+32,Zacatecas,023,Juchipila,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,1.32581379242109,Porcentaje
+32,Zacatecas,023,Juchipila,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,12.303757,14.8708815672306,Porcentaje
+32,Zacatecas,023,Juchipila,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,13.565003,19.5508063718215,Porcentaje
+32,Zacatecas,023,Juchipila,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.3229847,,Porcentaje
+32,Zacatecas,023,Juchipila,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.1587582,0.751954091223904,Porcentaje
+32,Zacatecas,023,Juchipila,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,89.791716,82.4993878050771,Porcentaje
+32,Zacatecas,023,Juchipila,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.118729593351143,Porcentaje
+32,Zacatecas,024,Loreto,1004000001,Poblacion derechohabiente a servicios de salud,10707,19477,31882,,42574,Número de personas
+32,Zacatecas,024,Loreto,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,78.398145,61.016113120684,Porcentaje
+32,Zacatecas,024,Loreto,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0337233,0.0446281768215343,Porcentaje
+32,Zacatecas,024,Loreto,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.645934138206417,Porcentaje
+32,Zacatecas,024,Loreto,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,10.285594,14.3467844224174,Porcentaje
+32,Zacatecas,024,Loreto,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,11.994942,24.4914736693757,Porcentaje
+32,Zacatecas,024,Loreto,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.6428496,,Porcentaje
+32,Zacatecas,024,Loreto,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.7313732,0.112744867759666,Porcentaje
+32,Zacatecas,024,Loreto,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,88.78015,79.2679066823065,Porcentaje
+32,Zacatecas,024,Loreto,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.0986517592897073,Porcentaje
+32,Zacatecas,025,Luis Moya,1004000001,Poblacion derechohabiente a servicios de salud,3004,4339,8319,,9591,Número de personas
+32,Zacatecas,025,Luis Moya,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,68.898601,47.8886456052549,Porcentaje
+32,Zacatecas,025,Luis Moya,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0524476,0.104264414555312,Porcentaje
+32,Zacatecas,025,Luis Moya,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.0312793243665937,Porcentaje
+32,Zacatecas,025,Luis Moya,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,5.6293706,5.98477739547492,Porcentaje
+32,Zacatecas,025,Luis Moya,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,27.596154,46.064018350537,Porcentaje
+32,Zacatecas,025,Luis Moya,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.1276224,,Porcentaje
+32,Zacatecas,025,Luis Moya,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.7604895,0.125117297466375,Porcentaje
+32,Zacatecas,025,Luis Moya,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,86.066807,72.7472694174757,Porcentaje
+32,Zacatecas,025,Luis Moya,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.156396621832968,Porcentaje
+32,Zacatecas,026,Mazapil,1004000001,Poblacion derechohabiente a servicios de salud,7404,3545,10618,,13507,Número de personas
+32,Zacatecas,026,Mazapil,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,62.851706,47.4346635078108,Porcentaje
+32,Zacatecas,026,Mazapil,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0407775,0.0888428222403198,Porcentaje
+32,Zacatecas,026,Mazapil,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.318353446361146,Porcentaje
+32,Zacatecas,026,Mazapil,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,0.9922523,1.99155993188717,Porcentaje
+32,Zacatecas,026,Mazapil,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,39.098817,48.1898274968535,Porcentaje
+32,Zacatecas,026,Mazapil,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.5165149,,Porcentaje
+32,Zacatecas,026,Mazapil,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0951475,0.15547493892056,Porcentaje
+32,Zacatecas,026,Mazapil,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,84.287105,75.9930235174975,Porcentaje
+32,Zacatecas,026,Mazapil,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,3.05767379877101,Porcentaje
+32,Zacatecas,027,Melchor Ocampo,1004000001,Poblacion derechohabiente a servicios de salud,1503,1341,1767,,2356,Número de personas
+32,Zacatecas,027,Melchor Ocampo,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,73.024316,54.0322580645161,Porcentaje
+32,Zacatecas,027,Melchor Ocampo,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0,Porcentaje
+32,Zacatecas,027,Melchor Ocampo,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.297113752122241,Porcentaje
+32,Zacatecas,027,Melchor Ocampo,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,0.6838906,1.14601018675722,Porcentaje
+32,Zacatecas,027,Melchor Ocampo,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,30.889058,44.6943972835314,Porcentaje
+32,Zacatecas,027,Melchor Ocampo,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.1899696,,Porcentaje
+32,Zacatecas,027,Melchor Ocampo,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0379939,0.0424448217317487,Porcentaje
+32,Zacatecas,027,Melchor Ocampo,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,89.584752,86.1111111111111,Porcentaje
+32,Zacatecas,027,Melchor Ocampo,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.297113752122241,Porcentaje
+32,Zacatecas,028,Mezquital del Oro,1004000001,Poblacion derechohabiente a servicios de salud,443,524,1605,,2167,Número de personas
+32,Zacatecas,028,Mezquital del Oro,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,90.367384,88.9247808029534,Porcentaje
+32,Zacatecas,028,Mezquital del Oro,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0448029,0.0461467466543609,Porcentaje
+32,Zacatecas,028,Mezquital del Oro,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,1.8920166128288,Porcentaje
+32,Zacatecas,028,Mezquital del Oro,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,6.1827957,5.26072911859714,Porcentaje
+32,Zacatecas,028,Mezquital del Oro,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,2.4193548,1.79972311952007,Porcentaje
+32,Zacatecas,028,Mezquital del Oro,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,2.1505376,,Porcentaje
+32,Zacatecas,028,Mezquital del Oro,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.4480287,1.2921089063221,Porcentaje
+32,Zacatecas,028,Mezquital del Oro,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,89.855072,88.4128926968584,Porcentaje
+32,Zacatecas,028,Mezquital del Oro,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,1.0613751730503,Porcentaje
+32,Zacatecas,029,Miguel Auza,1004000001,Poblacion derechohabiente a servicios de salud,4777,6312,13858,,18414,Número de personas
+32,Zacatecas,029,Miguel Auza,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,87.442355,78.1144781144781,Porcentaje
+32,Zacatecas,029,Miguel Auza,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0405412,0.152058216574346,Porcentaje
+32,Zacatecas,029,Miguel Auza,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.858042793526665,Porcentaje
+32,Zacatecas,029,Miguel Auza,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.5980338,4.06755729336375,Porcentaje
+32,Zacatecas,029,Miguel Auza,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,12.82623,16.9707830998154,Porcentaje
+32,Zacatecas,029,Miguel Auza,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.1925708,,Porcentaje
+32,Zacatecas,029,Miguel Auza,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0253383,0.233517975453459,Porcentaje
+32,Zacatecas,029,Miguel Auza,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,82.817812,77.6536077257201,Porcentaje
+32,Zacatecas,029,Miguel Auza,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.342130987292278,Porcentaje
+32,Zacatecas,030,Momax,1004000001,Poblacion derechohabiente a servicios de salud,398,390,1349,,1873,Número de personas
+32,Zacatecas,030,Momax,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,84.608076,72.1836625734116,Porcentaje
+32,Zacatecas,030,Momax,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.1900238,0.106780565936999,Porcentaje
+32,Zacatecas,030,Momax,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.320341697810998,Porcentaje
+32,Zacatecas,030,Momax,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,1.1401425,2.24239188467699,Porcentaje
+32,Zacatecas,030,Momax,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,16.484561,25.3069941270689,Porcentaje
+32,Zacatecas,030,Momax,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.1900238,,Porcentaje
+32,Zacatecas,030,Momax,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.3325416,0.0533902829684997,Porcentaje
+32,Zacatecas,030,Momax,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,87.562396,76.573998364677,Porcentaje
+32,Zacatecas,030,Momax,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.160170848905499,Porcentaje
+32,Zacatecas,031,Monte Escobedo,1004000001,Poblacion derechohabiente a servicios de salud,1499,2478,4075,,6628,Número de personas
+32,Zacatecas,031,Monte Escobedo,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,84.254292,77.9269764634882,Porcentaje
+32,Zacatecas,031,Monte Escobedo,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.150875075437538,Porcentaje
+32,Zacatecas,031,Monte Escobedo,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.377187688593844,Porcentaje
+32,Zacatecas,031,Monte Escobedo,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.4066524,3.62100181050091,Porcentaje
+32,Zacatecas,031,Monte Escobedo,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,17.100322,17.3506336753168,Porcentaje
+32,Zacatecas,031,Monte Escobedo,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.0804721,,Porcentaje
+32,Zacatecas,031,Monte Escobedo,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0,1.35787567893784,Porcentaje
+32,Zacatecas,031,Monte Escobedo,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,81.673787,76.3330646090061,Porcentaje
+32,Zacatecas,031,Monte Escobedo,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.196137598068799,Porcentaje
+32,Zacatecas,032,Morelos,1004000001,Poblacion derechohabiente a servicios de salud,4386,5682,8322,,11094,Número de personas
+32,Zacatecas,032,Morelos,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,48.708752,29.5835586803678,Porcentaje
+32,Zacatecas,032,Morelos,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.071736,0.0540832882639264,Porcentaje
+32,Zacatecas,032,Morelos,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.58590228952587,Porcentaje
+32,Zacatecas,032,Morelos,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,9.6753945,10.4380746349378,Porcentaje
+32,Zacatecas,032,Morelos,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,43.687231,60.1946998377501,Porcentaje
+32,Zacatecas,032,Morelos,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.7664993,,Porcentaje
+32,Zacatecas,032,Morelos,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.26901,0.0721110510185686,Porcentaje
+32,Zacatecas,032,Morelos,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,90.270358,84.0009086090709,Porcentaje
+32,Zacatecas,032,Morelos,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.0540832882639264,Porcentaje
+32,Zacatecas,033,Moyahua de Estrada,1004000001,Poblacion derechohabiente a servicios de salud,889,1933,3025,,3678,Número de personas
+32,Zacatecas,033,Moyahua de Estrada,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,87.274807,74.6057640021751,Porcentaje
+32,Zacatecas,033,Moyahua de Estrada,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.0815660685154976,Porcentaje
+32,Zacatecas,033,Moyahua de Estrada,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,6.85154975530179,Porcentaje
+32,Zacatecas,033,Moyahua de Estrada,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,5.9193595,6.22620989668298,Porcentaje
+32,Zacatecas,033,Moyahua de Estrada,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,7.5779239,14.0021750951604,Porcentaje
+32,Zacatecas,033,Moyahua de Estrada,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.1429797,,Porcentaje
+32,Zacatecas,033,Moyahua de Estrada,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.4003432,0.842849374660141,Porcentaje
+32,Zacatecas,033,Moyahua de Estrada,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,88.598936,81.1920529801324,Porcentaje
+32,Zacatecas,033,Moyahua de Estrada,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.0543773790103317,Porcentaje
+32,Zacatecas,034,Nochistlán de Mejía,1004000001,Poblacion derechohabiente a servicios de salud,4928,10306,17687,,19340,Número de personas
+32,Zacatecas,034,Nochistlán de Mejía,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,81.011442,67.8335056876939,Porcentaje
+32,Zacatecas,034,Nochistlán de Mejía,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0262032,0.0206825232678387,Porcentaje
+32,Zacatecas,034,Nochistlán de Mejía,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.336091003102378,Porcentaje
+32,Zacatecas,034,Nochistlán de Mejía,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,6.3062276,8.62978283350569,Porcentaje
+32,Zacatecas,034,Nochistlán de Mejía,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,13.581972,23.0196483971044,Porcentaje
+32,Zacatecas,034,Nochistlán de Mejía,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.4454538,,Porcentaje
+32,Zacatecas,034,Nochistlán de Mejía,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0786095,0.268872802481903,Porcentaje
+32,Zacatecas,034,Nochistlán de Mejía,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,82.515315,69.2073716228306,Porcentaje
+32,Zacatecas,034,Nochistlán de Mejía,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,1.57187176835574,Porcentaje
+32,Zacatecas,035,Noria de Ángeles,1004000001,Poblacion derechohabiente a servicios de salud,2470,3678,10978,,12773,Número de personas
+32,Zacatecas,035,Noria de Ángeles,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,82.338791,68.7152587489235,Porcentaje
+32,Zacatecas,035,Noria de Ángeles,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0801871,0.0861191575980584,Porcentaje
+32,Zacatecas,035,Noria de Ángeles,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.0234870429812887,Porcentaje
+32,Zacatecas,035,Noria de Ángeles,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.3945874,4.17286463634228,Porcentaje
+32,Zacatecas,035,Noria de Ángeles,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,15.128633,25.953182494324,Porcentaje
+32,Zacatecas,035,Noria de Ángeles,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.387571,,Porcentaje
+32,Zacatecas,035,Noria de Ángeles,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.2806549,0.0548031002896735,Porcentaje
+32,Zacatecas,035,Noria de Ángeles,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,88.739326,78.4389584868583,Porcentaje
+32,Zacatecas,035,Noria de Ángeles,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,1.52665779378376,Porcentaje
+32,Zacatecas,036,Ojocaliente,1004000001,Poblacion derechohabiente a servicios de salud,8831,15374,29309,,34633,Número de personas
+32,Zacatecas,036,Ojocaliente,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,75.249227,59.8417694106777,Porcentaje
+32,Zacatecas,036,Ojocaliente,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0528863,0.0692980683163457,Porcentaje
+32,Zacatecas,036,Ojocaliente,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.173245170790864,Porcentaje
+32,Zacatecas,036,Ojocaliente,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,5.2092974,7.18678716830768,Porcentaje
+32,Zacatecas,036,Ojocaliente,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,21.001137,33.0320792307914,Porcentaje
+32,Zacatecas,036,Ojocaliente,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.3723987,,Porcentaje
+32,Zacatecas,036,Ojocaliente,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.6690113,0.112609361014062,Porcentaje
+32,Zacatecas,036,Ojocaliente,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,86.993628,78.4546031170714,Porcentaje
+32,Zacatecas,036,Ojocaliente,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.352265180608091,Porcentaje
+32,Zacatecas,037,Pánuco,1004000001,Poblacion derechohabiente a servicios de salud,2241,4419,9500,,14666,Número de personas
+32,Zacatecas,037,Pánuco,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,76.240933,59.4572480567299,Porcentaje
+32,Zacatecas,037,Pánuco,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.1387575,0.0545479339969999,Porcentaje
+32,Zacatecas,037,Pánuco,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.211373244238374,Porcentaje
+32,Zacatecas,037,Pánuco,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,0.8262378,1.43188326742125,Porcentaje
+32,Zacatecas,037,Pánuco,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,24.856512,38.2312832401473,Porcentaje
+32,Zacatecas,037,Pánuco,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.7127089,,Porcentaje
+32,Zacatecas,037,Pánuco,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.3027436,0.197736260739125,Porcentaje
+32,Zacatecas,037,Pánuco,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,89.845299,83.4385845138533,Porcentaje
+32,Zacatecas,037,Pánuco,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,2.20237283512887,Porcentaje
+32,Zacatecas,038,Pinos,1004000001,Poblacion derechohabiente a servicios de salud,14700,14151,44663,,60442,Número de personas
+32,Zacatecas,038,Pinos,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,91.492393,83.6769134045862,Porcentaje
+32,Zacatecas,038,Pinos,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0681942,0.0413619668442474,Porcentaje
+32,Zacatecas,038,Pinos,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.0860328910360345,Porcentaje
+32,Zacatecas,038,Pinos,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.7037037,4.22719301148208,Porcentaje
+32,Zacatecas,038,Pinos,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,8.5106383,10.145263227557,Porcentaje
+32,Zacatecas,038,Pinos,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.4515973,,Porcentaje
+32,Zacatecas,038,Pinos,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0272777,0.0727970616458754,Porcentaje
+32,Zacatecas,038,Pinos,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,90.207926,83.6671696128237,Porcentaje
+32,Zacatecas,038,Pinos,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,2.47675457463353,Porcentaje
+32,Zacatecas,039,Río Grande,1004000001,Poblacion derechohabiente a servicios de salud,15146,18150,42996,,48875,Número de personas
+32,Zacatecas,039,Río Grande,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,69.445399,52.0040920716113,Porcentaje
+32,Zacatecas,039,Río Grande,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.114578005115089,Porcentaje
+32,Zacatecas,039,Río Grande,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.816368286445013,Porcentaje
+32,Zacatecas,039,Río Grande,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,9.021985,9.54884910485933,Porcentaje
+32,Zacatecas,039,Río Grande,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,22.440966,33.1580562659847,Porcentaje
+32,Zacatecas,039,Río Grande,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.5645526,,Porcentaje
+32,Zacatecas,039,Río Grande,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,1.7624174,0.325319693094629,Porcentaje
+32,Zacatecas,039,Río Grande,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,86.513776,75.7340977764004,Porcentaje
+32,Zacatecas,039,Río Grande,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,5.41585677749361,Porcentaje
+32,Zacatecas,040,Sain Alto,1004000001,Poblacion derechohabiente a servicios de salud,6019,6599,15168,,18412,Número de personas
+32,Zacatecas,040,Sain Alto,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,86.021032,75.9178796437106,Porcentaje
+32,Zacatecas,040,Sain Alto,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.0434499239626331,Porcentaje
+32,Zacatecas,040,Sain Alto,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.510536606560938,Porcentaje
+32,Zacatecas,040,Sain Alto,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.6781609,4.62741690202042,Porcentaje
+32,Zacatecas,040,Sain Alto,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,9.8752751,17.276776015642,Porcentaje
+32,Zacatecas,040,Sain Alto,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.4869161,,Porcentaje
+32,Zacatecas,040,Sain Alto,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.3521643,1.8086030849446,Porcentaje
+32,Zacatecas,040,Sain Alto,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,91.772152,84.2885918329976,Porcentaje
+32,Zacatecas,040,Sain Alto,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.575711492504888,Porcentaje
+32,Zacatecas,041,El Salvador,1004000001,Poblacion derechohabiente a servicios de salud,324,224,1121,,1314,Número de personas
+32,Zacatecas,041,El Salvador,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,87.055703,42.4657534246575,Porcentaje
+32,Zacatecas,041,El Salvador,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.532724505327245,Porcentaje
+32,Zacatecas,041,El Salvador,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,1.75038051750381,Porcentaje
+32,Zacatecas,041,El Salvador,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,4.5092838,6.31659056316591,Porcentaje
+32,Zacatecas,041,El Salvador,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,9.867374,39.193302891933,Porcentaje
+32,Zacatecas,041,El Salvador,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.3183024,,Porcentaje
+32,Zacatecas,041,El Salvador,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.1061008,0,Porcentaje
+32,Zacatecas,041,El Salvador,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,76.782077,52.371462734157,Porcentaje
+32,Zacatecas,041,El Salvador,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,10.5022831050228,Porcentaje
+32,Zacatecas,042,Sombrerete,1004000001,Poblacion derechohabiente a servicios de salud,17283,19680,39594,,48076,Número de personas
+32,Zacatecas,042,Sombrerete,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,64.703625,52.5189283634246,Porcentaje
+32,Zacatecas,042,Sombrerete,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0095945,0.0312005990515018,Porcentaje
+32,Zacatecas,042,Sombrerete,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.228804393044346,Porcentaje
+32,Zacatecas,042,Sombrerete,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,4.6802142,5.21882020134787,Porcentaje
+32,Zacatecas,042,Sombrerete,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,31.458561,42.1228887594642,Porcentaje
+32,Zacatecas,042,Sombrerete,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.454781,,Porcentaje
+32,Zacatecas,042,Sombrerete,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.4413486,0.457608786088693,Porcentaje
+32,Zacatecas,042,Sombrerete,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,83.47028,75.5140186915888,Porcentaje
+32,Zacatecas,042,Sombrerete,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.299525750894417,Porcentaje
+32,Zacatecas,043,Susticacán,1004000001,Poblacion derechohabiente a servicios de salud,182,153,615,,1032,Número de personas
+32,Zacatecas,043,Susticacán,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,92.580645,86.6279069767442,Porcentaje
+32,Zacatecas,043,Susticacán,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.1075269,0,Porcentaje
+32,Zacatecas,043,Susticacán,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0,Porcentaje
+32,Zacatecas,043,Susticacán,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,0.6451613,1.84108527131783,Porcentaje
+32,Zacatecas,043,Susticacán,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,7.311828,10.7558139534884,Porcentaje
+32,Zacatecas,043,Susticacán,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.3225806,,Porcentaje
+32,Zacatecas,043,Susticacán,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0,0.193798449612403,Porcentaje
+32,Zacatecas,043,Susticacán,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,69.977427,75.6043956043956,Porcentaje
+32,Zacatecas,043,Susticacán,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.968992248062015,Porcentaje
+32,Zacatecas,044,Tabasco,1004000001,Poblacion derechohabiente a servicios de salud,2872,6569,12292,,13865,Número de personas
+32,Zacatecas,044,Tabasco,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,85.898067,73.7973314100253,Porcentaje
+32,Zacatecas,044,Tabasco,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0281195,0.0721240533717995,Porcentaje
+32,Zacatecas,044,Tabasco,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.0937612693833393,Porcentaje
+32,Zacatecas,044,Tabasco,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,4.0843585,5.44536602957086,Porcentaje
+32,Zacatecas,044,Tabasco,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,16.091388,21.002524341868,Porcentaje
+32,Zacatecas,044,Tabasco,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.745167,,Porcentaje
+32,Zacatecas,044,Tabasco,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.1757469,0.0649116480346195,Porcentaje
+32,Zacatecas,044,Tabasco,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,91.869026,83.5845189293465,Porcentaje
+32,Zacatecas,044,Tabasco,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.230796970789758,Porcentaje
+32,Zacatecas,045,Tepechitlán,1004000001,Poblacion derechohabiente a servicios de salud,3723,1357,5282,,6743,Número de personas
+32,Zacatecas,045,Tepechitlán,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,74.860044,71.5260269909536,Porcentaje
+32,Zacatecas,045,Tepechitlán,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.091134,0.014830194275545,Porcentaje
+32,Zacatecas,045,Tepechitlán,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,2.41732166691384,Porcentaje
+32,Zacatecas,045,Tepechitlán,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,6.8741049,7.38543674922142,Porcentaje
+32,Zacatecas,045,Tepechitlán,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,29.722692,19.6796678036482,Porcentaje
+32,Zacatecas,045,Tepechitlán,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,2.0830621,,Porcentaje
+32,Zacatecas,045,Tepechitlán,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.2343445,0.103811359928815,Porcentaje
+32,Zacatecas,045,Tepechitlán,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,86.741954,81.035933181108,Porcentaje
+32,Zacatecas,045,Tepechitlán,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.978792822185971,Porcentaje
+32,Zacatecas,046,Tepetongo,1004000001,Poblacion derechohabiente a servicios de salud,2586,2237,4165,,5241,Número de personas
+32,Zacatecas,046,Tepetongo,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,93.013837,89.2959358900973,Porcentaje
+32,Zacatecas,046,Tepetongo,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.0763213127265789,Porcentaje
+32,Zacatecas,046,Tepetongo,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.171722953634803,Porcentaje
+32,Zacatecas,046,Tepetongo,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,0.9449882,1.64090822362145,Porcentaje
+32,Zacatecas,046,Tepetongo,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,7.3067837,8.75787063537493,Porcentaje
+32,Zacatecas,046,Tepetongo,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.1181235,,Porcentaje
+32,Zacatecas,046,Tepetongo,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0843739,0.114481969089868,Porcentaje
+32,Zacatecas,046,Tepetongo,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,83.807099,80.7550077041602,Porcentaje
+32,Zacatecas,046,Tepetongo,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,2.57584430452204,Porcentaje
+32,Zacatecas,047,Teúl de González Ortega,1004000001,Poblacion derechohabiente a servicios de salud,1549,1052,3499,,4249,Número de personas
+32,Zacatecas,047,Teúl de González Ortega,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,76.168532,70.2282890091786,Porcentaje
+32,Zacatecas,047,Teúl de González Ortega,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.211814544598729,Porcentaje
+32,Zacatecas,047,Teúl de González Ortega,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,1.64744645799012,Porcentaje
+32,Zacatecas,047,Teúl de González Ortega,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,6.2760588,5.34243351376795,Porcentaje
+32,Zacatecas,047,Teúl de González Ortega,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,19.574281,20.2400564838786,Porcentaje
+32,Zacatecas,047,Teúl de González Ortega,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.8119377,,Porcentaje
+32,Zacatecas,047,Teúl de González Ortega,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.1755541,0.258884443398447,Porcentaje
+32,Zacatecas,047,Teúl de González Ortega,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,84.734102,79.3315907393577,Porcentaje
+32,Zacatecas,047,Teúl de González Ortega,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,2.8006589785832,Porcentaje
+32,Zacatecas,048,Tlaltenango de Sánchez Román,1004000001,Poblacion derechohabiente a servicios de salud,5418,6989,14836,,19499,Número de personas
+32,Zacatecas,048,Tlaltenango de Sánchez Román,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,69.517441,55.8490178983538,Porcentaje
+32,Zacatecas,048,Tlaltenango de Sánchez Román,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,5.0470633,4.42073952510385,Porcentaje
+32,Zacatecas,048,Tlaltenango de Sánchez Román,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.512846812657059,Porcentaje
+32,Zacatecas,048,Tlaltenango de Sánchez Román,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,5.3366838,6.97984512026258,Porcentaje
+32,Zacatecas,048,Tlaltenango de Sánchez Román,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,20.59287,27.9604082260629,Porcentaje
+32,Zacatecas,048,Tlaltenango de Sánchez Román,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,3.7565484,,Porcentaje
+32,Zacatecas,048,Tlaltenango de Sánchez Román,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,1.4523617,0.723114005846454,Porcentaje
+32,Zacatecas,048,Tlaltenango de Sánchez Román,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,88.117846,71.4196762141968,Porcentaje
+32,Zacatecas,048,Tlaltenango de Sánchez Román,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,5.86183906867019,Porcentaje
+32,Zacatecas,049,Valparaíso,1004000001,Poblacion derechohabiente a servicios de salud,8005,8078,20933,,27171,Número de personas
+32,Zacatecas,049,Valparaíso,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,86.47373,77.6673659416289,Porcentaje
+32,Zacatecas,049,Valparaíso,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.1033592,0.14721578153178,Porcentaje
+32,Zacatecas,049,Valparaíso,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.713996540429134,Porcentaje
+32,Zacatecas,049,Valparaíso,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,5.1403962,7.30558315851459,Porcentaje
+32,Zacatecas,049,Valparaíso,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,9.667528,14.0039012182106,Porcentaje
+32,Zacatecas,049,Valparaíso,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.5788114,,Porcentaje
+32,Zacatecas,049,Valparaíso,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.1963824,0.570461153435648,Porcentaje
+32,Zacatecas,049,Valparaíso,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,89.017359,83.7035211484551,Porcentaje
+32,Zacatecas,049,Valparaíso,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.401163004674101,Porcentaje
+32,Zacatecas,050,Vetagrande,1004000001,Poblacion derechohabiente a servicios de salud,2729,3771,6613,,8635,Número de personas
+32,Zacatecas,050,Vetagrande,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,71.476698,53.6305732484076,Porcentaje
+32,Zacatecas,050,Vetagrande,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.1122965,0.138969310943833,Porcentaje
+32,Zacatecas,050,Vetagrande,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.4169079328315,Porcentaje
+32,Zacatecas,050,Vetagrande,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,2.2796182,3.71742906774754,Porcentaje
+32,Zacatecas,050,Vetagrande,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,28.702976,41.7602779386219,Porcentaje
+32,Zacatecas,050,Vetagrande,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.4941044,,Porcentaje
+32,Zacatecas,050,Vetagrande,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,1.459854,0.567458019687319,Porcentaje
+32,Zacatecas,050,Vetagrande,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,90.904451,84.0307512650837,Porcentaje
+32,Zacatecas,050,Vetagrande,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.486392588303416,Porcentaje
+32,Zacatecas,051,Villa de Cos,1004000001,Poblacion derechohabiente a servicios de salud,3166,7083,23879,,27946,Número de personas
+32,Zacatecas,051,Villa de Cos,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,90.412808,82.0761468546482,Porcentaje
+32,Zacatecas,051,Villa de Cos,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0094177,0.0178916481786302,Porcentaje
+32,Zacatecas,051,Villa de Cos,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.443712874830029,Porcentaje
+32,Zacatecas,051,Villa de Cos,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.1141108,2.912760323481,Porcentaje
+32,Zacatecas,051,Villa de Cos,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,7.5247214,13.7228941530094,Porcentaje
+32,Zacatecas,051,Villa de Cos,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.3484539,,Porcentaje
+32,Zacatecas,051,Villa de Cos,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,1.8395856,0.418664567379947,Porcentaje
+32,Zacatecas,051,Villa de Cos,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,90.363667,80.7151315599457,Porcentaje
+32,Zacatecas,051,Villa de Cos,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,1.05202891290346,Porcentaje
+32,Zacatecas,052,Villa García,1004000001,Poblacion derechohabiente a servicios de salud,4680,6071,13178,,15280,Número de personas
+32,Zacatecas,052,Villa García,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,63.592935,45.8049738219895,Porcentaje
+32,Zacatecas,052,Villa García,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.025143,0.0261780104712042,Porcentaje
+32,Zacatecas,052,Villa García,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.294502617801047,Porcentaje
+32,Zacatecas,052,Villa García,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,8.9949085,10.229057591623,Porcentaje
+32,Zacatecas,052,Villa García,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,29.838456,44.5353403141361,Porcentaje
+32,Zacatecas,052,Villa García,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.1382865,,Porcentaje
+32,Zacatecas,052,Villa García,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0125715,0.0981675392670157,Porcentaje
+32,Zacatecas,052,Villa García,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,84.870632,78.258642765685,Porcentaje
+32,Zacatecas,052,Villa García,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.111256544502618,Porcentaje
+32,Zacatecas,053,Villa González Ortega,1004000001,Poblacion derechohabiente a servicios de salud,2477,3955,8543,,10517,Número de personas
+32,Zacatecas,053,Villa González Ortega,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,77.917353,66.7871065893316,Porcentaje
+32,Zacatecas,053,Villa González Ortega,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.034653,0.0665589046305981,Porcentaje
+32,Zacatecas,053,Villa González Ortega,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.152134639155653,Porcentaje
+32,Zacatecas,053,Villa González Ortega,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,8.0395045,10.3356470476372,Porcentaje
+32,Zacatecas,053,Villa González Ortega,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,14.35502,22.3162498811448,Porcentaje
+32,Zacatecas,053,Villa González Ortega,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.7190505,,Porcentaje
+32,Zacatecas,053,Villa González Ortega,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0952959,0.969858324617286,Porcentaje
+32,Zacatecas,053,Villa González Ortega,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,88.121231,79.6259842519685,Porcentaje
+32,Zacatecas,053,Villa González Ortega,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.199676713891794,Porcentaje
+32,Zacatecas,054,Villa Hidalgo,1004000001,Poblacion derechohabiente a servicios de salud,1719,3673,12252,,16421,Número de personas
+32,Zacatecas,054,Villa Hidalgo,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,88.188389,76.6944765848609,Porcentaje
+32,Zacatecas,054,Villa Hidalgo,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0516292,0.00608976310821509,Porcentaje
+32,Zacatecas,054,Villa Hidalgo,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.0548078679739358,Porcentaje
+32,Zacatecas,054,Villa Hidalgo,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,4.9506654,6.15675050240546,Porcentaje
+32,Zacatecas,054,Villa Hidalgo,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,11.834557,11.3208696181719,Porcentaje
+32,Zacatecas,054,Villa Hidalgo,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.487609,,Porcentaje
+32,Zacatecas,054,Villa Hidalgo,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0458926,0.0974362097314414,Porcentaje
+32,Zacatecas,054,Villa Hidalgo,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,91.00496,84.444101614728,Porcentaje
+32,Zacatecas,054,Villa Hidalgo,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,6.29072529078619,Porcentaje
+32,Zacatecas,055,Villanueva,1004000001,Poblacion derechohabiente a servicios de salud,10509,6703,16539,,23598,Número de personas
+32,Zacatecas,055,Villanueva,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,75.227316,61.5136876006441,Porcentaje
+32,Zacatecas,055,Villanueva,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.0652216,0.135604712263751,Porcentaje
+32,Zacatecas,055,Villanueva,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.487329434697856,Porcentaje
+32,Zacatecas,055,Villanueva,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.9938615,5.20383083312145,Porcentaje
+32,Zacatecas,055,Villanueva,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,26.491464,29.828799050767,Porcentaje
+32,Zacatecas,055,Villanueva,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.3299444,,Porcentaje
+32,Zacatecas,055,Villanueva,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.4642241,0.296635308076956,Porcentaje
+32,Zacatecas,055,Villanueva,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,86.193783,74.7766018125356,Porcentaje
+32,Zacatecas,055,Villanueva,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,4.05966607339605,Porcentaje
+32,Zacatecas,056,Zacatecas,1004000001,Poblacion derechohabiente a servicios de salud,78512,90692,104160,,123979,Número de personas
+32,Zacatecas,056,Zacatecas,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,28.959653,17.2416296308246,Porcentaje
+32,Zacatecas,056,Zacatecas,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.2257969,0.650110099291009,Porcentaje
+32,Zacatecas,056,Zacatecas,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.9380620911606,Porcentaje
+32,Zacatecas,056,Zacatecas,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,17.750679,17.2279176312117,Porcentaje
+32,Zacatecas,056,Zacatecas,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,55.131274,66.3935021253599,Porcentaje
+32,Zacatecas,056,Zacatecas,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,1.6438334,,Porcentaje
+32,Zacatecas,056,Zacatecas,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.8055024,0.251655522306197,Porcentaje
+32,Zacatecas,056,Zacatecas,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,85.45574,82.8697855046889,Porcentaje
+32,Zacatecas,056,Zacatecas,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,0.201647053129966,Porcentaje
+32,Zacatecas,057,Trancoso,1004000001,Poblacion derechohabiente a servicios de salud,3629,7649,12747,,17549,Número de personas
+32,Zacatecas,057,Trancoso,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,76.93881,61.4564932474785,Porcentaje
+32,Zacatecas,057,Trancoso,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0.8522243,1.8348623853211,Porcentaje
+32,Zacatecas,057,Trancoso,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,0.455866431135677,Porcentaje
+32,Zacatecas,057,Trancoso,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,3.9940912,4.70112257108667,Porcentaje
+32,Zacatecas,057,Trancoso,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,20.584058,30.7880790928258,Porcentaje
+32,Zacatecas,057,Trancoso,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0.6022385,,Porcentaje
+32,Zacatecas,057,Trancoso,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.0795409,0.262123197903014,Porcentaje
+32,Zacatecas,057,Trancoso,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,90.666049,85.7932045954534,Porcentaje
+32,Zacatecas,057,Trancoso,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,1.01430280927688,Porcentaje
+32,Zacatecas,058,Santa María de la Paz,1004000001,Poblacion derechohabiente a servicios de salud,,337,1456,,2352,Número de personas
+32,Zacatecas,058,Santa María de la Paz,6200240323,Porcentaje de la Poblacion derechohabiente en el Seguro popular,,,,83.389021,64.8384353741497,Porcentaje
+32,Zacatecas,058,Santa María de la Paz,6200240414,"Porcentaje de la Poblacion derechohabiente en PEMEX, SDN o SM",,,,0,0.170068027210884,Porcentaje
+32,Zacatecas,058,Santa María de la Paz,6200240416,Porcentaje de la Poblacion usuaria de servicios de salud en instituciones de servicios médicos privados,,,,,2.50850340136054,Porcentaje
+32,Zacatecas,058,Santa María de la Paz,6200240421,Porcentaje de la Poblacion derechohabiente en el ISSSTE,,,,6.5393795,5.82482993197279,Porcentaje
+32,Zacatecas,058,Santa María de la Paz,6200240471,Porcentaje de la Poblacion derechohabiente en el IMSS,,,,13.603819,24.8299319727891,Porcentaje
+32,Zacatecas,058,Santa María de la Paz,6207019013,Porcentaje de Poblacion afiliada a seguro privado,,,,0,,Porcentaje
+32,Zacatecas,058,Santa María de la Paz,6207019017,Porcentaje de Poblacion afiliada a otra institución,,,,0.3818616,0.0425170068027211,Porcentaje
+32,Zacatecas,058,Santa María de la Paz,6207019018,Porcentaje de Poblacion afiliada a servicios de salud,,,,78.878012,85.0018070112035,Porcentaje
+32,Zacatecas,058,Santa María de la Paz,6207129818,Porcentaje de la Poblacion derechohabiente en Instituto de Salud para el Bienestar (IMSS-PROSPERA o IMSS-BIENESTAR),,,,,2.12585034013605,Porcentaje
